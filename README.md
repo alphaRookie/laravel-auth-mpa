@@ -44,12 +44,12 @@ A Laravel project with **MPA architecture** powered by:
 
 ## Screenshots
 
-https://github.com/alphaRookie/laravel-auth-mpa/blob/main/landing-page-deteskop.png?raw=true
-https://github.com/alphaRookie/laravel-auth-mpa/blob/main/landing-page-mobile.png?raw=true
-https://github.com/alphaRookie/laravel-auth-mpa/blob/main/login-form-dark.png?raw=true
-https://github.com/alphaRookie/laravel-auth-mpa/blob/main/login-form-light.png?raw=true
-https://github.com/alphaRookie/laravel-auth-mpa/blob/main/profile-edit-1.png?raw=true
-https://github.com/alphaRookie/laravel-auth-mpa/blob/main/profile-edit-2.png?raw=true
+![Landing Page Desktop](https://github.com/alphaRookie/laravel-auth-mpa/blob/main/landing-page-deteskop.png?raw=true)  
+![Landing Page Mobile](https://github.com/alphaRookie/laravel-auth-mpa/blob/main/landing-page-mobile.png?raw=true)  
+![Login Dark](https://github.com/alphaRookie/laravel-auth-mpa/blob/main/login-form-dark.png?raw=true)  
+![Login Light](https://github.com/alphaRookie/laravel-auth-mpa/blob/main/login-form-light.png?raw=true)  
+![Profile Edit 1](https://github.com/alphaRookie/laravel-auth-mpa/blob/main/profile-edit-1.png?raw=true)  
+![Profile Edit 2](https://github.com/alphaRookie/laravel-auth-mpa/blob/main/profile-edit-2.png?raw=true)
 
 ---
 

@@ -1,9 +1,4 @@
-# laravel-auth-mpa
-
-My Laravel project with authentication, landing page, and dashboard using Livewire, PHP, Blade, Tailwind CSS, and Alpine.js.
-
-
-# Laravel Livewire Auth Starter
+# First Laravel project
 
 A Laravel project with **MPA architecture** powered by:
 - ⚡ Laravel (PHP) as backend framework  

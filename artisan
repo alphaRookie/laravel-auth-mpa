@@ -1,0 +1,18 @@
+#!/usr/bin/env php
+<?php
+
+use Illuminate\Foundation\Application;
+use Symfony\Component\Console\Input\ArgvInput; //ArgvInput: Gets CLI arguments (like is user type: php artisan migrate)
+
+define('LARAVEL_START', microtime(true));
+
+// Activate the Composer autoloader, it's all what i installed via composer.. (Pack all libraries so they are ready to use)
+require __DIR__.'/vendor/autoload.php';
+
+// Bootstrap Laravel (prepare some important service like DB, Route, etc.. it's like activating machine)
+/** @var Application $app */
+$app = require_once __DIR__.'/bootstrap/app.php';
+
+$status = $app->handleCommand(new ArgvInput); //Receive, figure out, and run artisan command typed by user
+
+exit($status); //Ends the script and returns the $status code back to the operating system.
